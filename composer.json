@@ -1,10 +1,10 @@
 {
-    "name": "alright/options",
+    "name": "a300/options",
     "description": ":package_description",
     "license": "license",
     "authors": [
         {
-            "name": "author name",
+            "name": "Almas",
             "email": "author email",
             "homepage": "author homepage"
         }
