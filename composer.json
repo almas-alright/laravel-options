@@ -1,12 +1,12 @@
 {
     "name": "alright/options",
     "description": ":package_description",
-    "license": "license",
+    "license": "MIT",
     "authors": [
         {
             "name": "Almas",
-            "email": "author email",
-            "homepage": "author homepage"
+            "email": "kutsnalmas@gmail.com",
+            "homepage": "https://almas.ninja"
         }
     ],
     "homepage": "https://github.com/alright/options",
