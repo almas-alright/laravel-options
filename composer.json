@@ -11,9 +11,7 @@
     ],
     "homepage": "https://github.com/alright/options",
     "keywords": ["Laravel", "Options"],
-    "require": {
-        "illuminate/support": "~5|~6|~7"
-    },
+    "require": {},
     "require-dev": {
         "phpunit/phpunit": "^8.0",
         "mockery/mockery": "^1.1",
